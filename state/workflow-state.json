@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "current_phase": "iteration",
+  "phases": {
+    "research": {
+      "status": "APPROVED",
+      "deliverable_version": "49fbbb159810f6d30c6eb2acce6a665fb61f74859293ab452aa5fac81b730b9f",
+      "gate": {
+        "status": "PASS",
+        "checks": [],
+        "evaluated_at": "2026-10-14T14:23:38Z"
+      }
+    },
+    "define": {
+      "status": "APPROVED",
+      "deliverable_version": "820060481530cb1028cff6716fada926e5781290eba991f5b72f0cddb90ba40c",
+      "gate": {
+        "status": "PASS",
+        "checks": [],
+        "evaluated_at": "2026-10-15T14:43:40Z"
+      }
+    },
+    "information-architecture": {
+      "status": "APPROVED",
+      "deliverable_version": "944882e0ab58ba1bfacb78a5c6e750acdf3ea2c4f7ee4eb82e950d162fcb35eb",
+      "gate": {
+        "status": "PASS",
+        "checks": [],
+        "evaluated_at": "2026-10-15T14:50:47Z"
+      }
+    },
+    "ui-design": {
+      "status": "APPROVED",
+      "deliverable_version": "65172af91f235f22e365b8920f89f54bd69c5666046ea97d0f089b6dba46a901",
+      "gate": {
+        "status": "PASS",
+        "checks": [],
+        "evaluated_at": "2026-10-15T14:59:52Z"
+      }
+    },
+    "usability-testing": {
+      "status": "APPROVED",
+      "deliverable_version": "34190d0121ab2b450e879a54ff283cbae4e152e2df66c70344fbd488a197e446",
+      "gate": {
+        "status": "PASS",
+        "checks": [],
+        "evaluated_at": "2026-10-15T15:05:34Z"
+      }
+    },
+    "iteration": {"status": "BLOCKED", "deliverable_version": "df48da66ad305be1a2d62c5d9baa0dd1738c2566d6d8ebd484ba4c4cb174076b", "gate": {"status": "FAIL", "checks": [{"check": "required_retests", "message": "RT-01–RT-07 are blocked: testable screens, approved system/content/operational inputs and retest evidence are unavailable."}], "evaluated_at": "2026-10-16T16:40:46Z"}},
+    "ux-validation-approval": {"status": "NOT_STARTED", "deliverable_version": null, "gate": {"status": "NOT_EVALUATED", "checks": []}}
+  },
+  "approvals": [
+    {
+      "timestamp": "2026-10-14T14:27:21Z",
+      "phase": "research",
+      "deliverable_version": "49fbbb159810f6d30c6eb2acce6a665fb61f74859293ab452aa5fac81b730b9f",
+      "approver": "User",
+      "decision": "APPROVE",
+      "comment": "APPROVE GATE 01"
+    },
+    {
+      "timestamp": "2026-10-15T14:46:04Z",
+      "phase": "define",
+      "deliverable_version": "820060481530cb1028cff6716fada926e5781290eba991f5b72f0cddb90ba40c",
+      "approver": "User",
+      "decision": "APPROVE",
+      "comment": "APPROVE GATE 02"
+    },
+    {
+      "timestamp": "2026-10-15T14:53:30Z",
+      "phase": "information-architecture",
+      "deliverable_version": "944882e0ab58ba1bfacb78a5c6e750acdf3ea2c4f7ee4eb82e950d162fcb35eb",
+      "approver": "User",
+      "decision": "APPROVE",
+      "comment": "APPROVE GATE 03"
+    },
+    {
+      "timestamp": "2026-10-15T15:01:13Z",
+      "phase": "ui-design",
+      "deliverable_version": "65172af91f235f22e365b8920f89f54bd69c5666046ea97d0f089b6dba46a901",
+      "approver": "User",
+      "decision": "APPROVE",
+      "comment": "APPROVE GATE 04"
+    },
+    {
+      "timestamp": "2026-10-15T15:06:27Z",
+      "phase": "usability-testing",
+      "deliverable_version": "34190d0121ab2b450e879a54ff283cbae4e152e2df66c70344fbd488a197e446",
+      "approver": "User",
+      "decision": "APPROVE",
+      "comment": "APPROVE GATE 05"
+    }
+  ],
+  "decision_history": [
+    {
+      "timestamp": "2026-10-14T14:23:38Z",
+      "action": "GATE_EVALUATED",
+      "phase": "research",
+      "details": {
+        "result": "PASS",
+        "deliverable_version": "49fbbb159810f6d30c6eb2acce6a665fb61f74859293ab452aa5fac81b730b9f",
+        "failures": []
+      }
+    },
+    {
+      "timestamp": "2026-10-14T14:27:21Z",
+      "action": "APPROVAL_RECORDED",
+      "phase": "research",
+      "details": {
+        "timestamp": "2026-10-14T14:27:21Z",
+        "phase": "research",
+        "deliverable_version": "49fbbb159810f6d30c6eb2acce6a665fb61f74859293ab452aa5fac81b730b9f",
+        "approver": "User",
+        "decision": "APPROVE",
+        "comment": "APPROVE GATE 01"
+      }
+    },
+    {
+      "timestamp": "2026-10-14T14:27:21Z",
+      "action": "ADVANCED",
+      "phase": "research",
+      "details": {
+        "next_phase": "define",
+        "approval_timestamp": "2026-10-14T14:27:21Z"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:43:40Z",
+      "action": "GATE_EVALUATED",
+      "phase": "define",
+      "details": {
+        "result": "PASS",
+        "deliverable_version": "820060481530cb1028cff6716fada926e5781290eba991f5b72f0cddb90ba40c",
+        "failures": []
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:46:04Z",
+      "action": "APPROVAL_RECORDED",
+      "phase": "define",
+      "details": {
+        "timestamp": "2026-10-15T14:46:04Z",
+        "phase": "define",
+        "deliverable_version": "820060481530cb1028cff6716fada926e5781290eba991f5b72f0cddb90ba40c",
+        "approver": "User",
+        "decision": "APPROVE",
+        "comment": "APPROVE GATE 02"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:46:04Z",
+      "action": "ADVANCED",
+      "phase": "define",
+      "details": {
+        "next_phase": "information-architecture",
+        "approval_timestamp": "2026-10-15T14:46:04Z"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:50:47Z",
+      "action": "GATE_EVALUATED",
+      "phase": "information-architecture",
+      "details": {
+        "result": "PASS",
+        "deliverable_version": "944882e0ab58ba1bfacb78a5c6e750acdf3ea2c4f7ee4eb82e950d162fcb35eb",
+        "failures": []
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:53:30Z",
+      "action": "APPROVAL_RECORDED",
+      "phase": "information-architecture",
+      "details": {
+        "timestamp": "2026-10-15T14:53:30Z",
+        "phase": "information-architecture",
+        "deliverable_version": "944882e0ab58ba1bfacb78a5c6e750acdf3ea2c4f7ee4eb82e950d162fcb35eb",
+        "approver": "User",
+        "decision": "APPROVE",
+        "comment": "APPROVE GATE 03"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:53:30Z",
+      "action": "ADVANCED",
+      "phase": "information-architecture",
+      "details": {
+        "next_phase": "ui-design",
+        "approval_timestamp": "2026-10-15T14:53:30Z"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T14:59:52Z",
+      "action": "GATE_EVALUATED",
+      "phase": "ui-design",
+      "details": {
+        "result": "PASS",
+        "deliverable_version": "65172af91f235f22e365b8920f89f54bd69c5666046ea97d0f089b6dba46a901",
+        "failures": []
+      }
+    },
+    {
+      "timestamp": "2026-10-15T15:01:13Z",
+      "action": "APPROVAL_RECORDED",
+      "phase": "ui-design",
+      "details": {
+        "timestamp": "2026-10-15T15:01:13Z",
+        "phase": "ui-design",
+        "deliverable_version": "65172af91f235f22e365b8920f89f54bd69c5666046ea97d0f089b6dba46a901",
+        "approver": "User",
+        "decision": "APPROVE",
+        "comment": "APPROVE GATE 04"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T15:01:13Z",
+      "action": "ADVANCED",
+      "phase": "ui-design",
+      "details": {
+        "next_phase": "usability-testing",
+        "approval_timestamp": "2026-10-15T15:01:13Z"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T15:05:34Z",
+      "action": "GATE_EVALUATED",
+      "phase": "usability-testing",
+      "details": {
+        "result": "PASS",
+        "deliverable_version": "34190d0121ab2b450e879a54ff283cbae4e152e2df66c70344fbd488a197e446",
+        "failures": []
+      }
+    },
+    {
+      "timestamp": "2026-10-15T15:06:27Z",
+      "action": "APPROVAL_RECORDED",
+      "phase": "usability-testing",
+      "details": {
+        "timestamp": "2026-10-15T15:06:27Z",
+        "phase": "usability-testing",
+        "deliverable_version": "34190d0121ab2b450e879a54ff283cbae4e152e2df66c70344fbd488a197e446",
+        "approver": "User",
+        "decision": "APPROVE",
+        "comment": "APPROVE GATE 05"
+      }
+    },
+    {
+      "timestamp": "2026-10-15T15:06:27Z",
+      "action": "ADVANCED",
+      "phase": "usability-testing",
+      "details": {
+        "next_phase": "iteration",
+        "approval_timestamp": "2026-10-15T15:06:27Z"
+      }
+    },
+    {
+      "timestamp": "2026-10-16T16:40:46Z",
+      "action": "GATE_EVALUATED",
+      "phase": "iteration",
+      "details": {
+        "result": "FAIL",
+        "deliverable_version": "df48da66ad305be1a2d62c5d9baa0dd1738c2566d6d8ebd484ba4c4cb174076b",
+        "failures": [{"check": "required_retests", "message": "RT-01–RT-07 blocked; no retest evidence available."}],
+        "evidence": "outputs/iteration/gate-06-report.md"
+      }
+    }
+  ],
+  "external_approvals": [],
+  "box_uploads": []
+}
+

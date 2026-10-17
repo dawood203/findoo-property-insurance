@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Property Insurance UX Orchestrator workflow state",
+  "type": "object",
+  "required": ["schema_version", "current_phase", "phases", "approvals", "decision_history", "external_approvals", "box_uploads"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "current_phase": {"type": ["string", "null"], "enum": ["research", "define", "information-architecture", "ui-design", "usability-testing", "iteration", "ux-validation-approval", null]},
+    "phases": {"type": "object"},
+    "approvals": {"type": "array"},
+    "decision_history": {"type": "array"},
+    "external_approvals": {"type": "array"},
+    "box_uploads": {"type": "array"}
+  },
+  "additionalProperties": false
+}
+

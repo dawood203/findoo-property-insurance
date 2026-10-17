@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "project": "Findoo Property Insurance",
+  "language": "en",
+  "disclaimer": "Findoo is a conceptual property insurance application created for an AI for Designers course. It does not provide insurance, verified quotes, policy issuance, live support, or claims processing.",
+  "welcome_message": "Hi! I can explain the Findoo concept, its proposed journey, and how this demo works. Please do not share personal, policy, payment, or claim information.",
+  "fallback_message": "I do not have verified information to answer that question. You can explore the FAQs or the demo contact section. Findoo does not provide live customer support or insurance advice.",
+  "faqs": [
+    {
+      "id": "FAQ-001",
+      "category": "about",
+      "question": "What is Findoo Property Insurance?",
+      "keywords": ["about", "findoo", "what is findoo", "course", "concept"],
+      "answer": "Findoo is a conceptual digital property insurance experience created for an AI for Designers course. It demonstrates ways to explain insurance information, review options, access policy details, and follow a guided claims journey.",
+      "source": "website/index.html#about",
+      "requirement_references": []
+    },
+    {
+      "id": "FAQ-002",
+      "category": "availability",
+      "question": "Is Findoo a real insurance provider?",
+      "keywords": ["real", "provider", "insurer", "buy", "purchase", "available"],
+      "answer": "No. Findoo is a design concept. No insurance is available for purchase, and this demo does not issue policies or represent an insurer.",
+      "source": "website/index.html#faq",
+      "requirement_references": []
+    },
+    {
+      "id": "FAQ-003",
+      "category": "quotes",
+      "question": "Can I get a real quote here?",
+      "keywords": ["quote", "premium", "price", "pricing", "cost", "eligibility"],
+      "answer": "The quote preview explains the proposed journey only. It does not calculate premiums, verify eligibility, or create a real insurance quote. A future service would need an approved insurer pricing and underwriting source.",
+      "source": "website/index.html#how",
+      "requirement_references": ["BRD-006", "BRD-007", "BRD-008"]
+    },
+    {
+      "id": "FAQ-004",
+      "category": "coverage",
+      "question": "What coverage options does the concept show?",
+      "keywords": ["coverage", "building", "contents", "combined", "protection", "exclusions"],
+      "answer": "The website illustrates Building Protection, Home Contents Protection, and Combined Property Protection as information categories. They are not available insurance products. No specific event, item, benefit, limit, exclusion, price, or payment is confirmed. Actual coverage would depend on approved insurer policy wording, terms, and eligibility.",
+      "source": "website/index.html#coverage",
+      "requirement_references": ["BRD-001", "BRD-008", "BRD-012"]
+    },
+    {
+      "id": "FAQ-005",
+      "category": "application",
+      "question": "How does the proposed application journey work?",
+      "keywords": ["application", "apply", "steps", "property details", "how it works"],
+      "answer": "The concept has four steps: Enter Property Details, Explore Coverage Options, Review Your Quote, and Continue to Policy Application. This is an illustrative journey; no real quote or application is generated. A future service would collect only information required by its approved underwriting workflow.",
+      "source": "website/index.html#how",
+      "requirement_references": ["BRD-002", "BRD-003", "BRD-007", "BRD-008"]
+    },
+    {
+      "id": "FAQ-006",
+      "category": "policy",
+      "question": "Can I manage a policy through Findoo?",
+      "keywords": ["policy", "documents", "manage", "renewal", "policy hub"],
+      "answer": "The proposed experience includes an authenticated policy hub for documents, key dates, deductible information, contact channels, and approved servicing actions. These are design goals; this website does not access or manage real policies.",
+      "source": "website/index.html#why",
+      "requirement_references": ["BRD-011"]
+    },
+    {
+      "id": "FAQ-007",
+      "category": "claims",
+      "question": "How would the claims journey work?",
+      "keywords": ["claim", "claims", "damage", "incident", "evidence", "claim status"],
+      "answer": "The proposed journey includes reporting an incident, providing available evidence, following updates, responding to requests, and finding human help. This demo does not submit or process claims. Actual claims rules, decisions, payments, and timelines would depend on approved policy terms, evidence, insurer decisions, and applicable law.",
+      "source": "website/index.html#faq",
+      "requirement_references": ["BRD-013", "BRD-015", "BRD-016", "BRD-017", "BRD-018", "BRD-019"]
+    },
+    {
+      "id": "FAQ-008",
+      "category": "privacy",
+      "question": "Does the website collect or send my information?",
+      "keywords": ["privacy", "data", "personal information", "store", "save", "cookies", "contact form"],
+      "answer": "The current website contact form validates entries in your browser only. It does not transmit or save them in browser storage. Entries remain in page memory until cleared or the page is closed. Please use fictional details and do not share identity, policy, payment, or claim information. This statement describes the existing demo website; any future chatbot implementation must be reviewed separately.",
+      "source": "website/index.html#privacy",
+      "requirement_references": ["BRD-027"]
+    },
+    {
+      "id": "FAQ-009",
+      "category": "feedback",
+      "question": "Are the customer testimonials verified reviews?",
+      "keywords": ["reviews", "testimonials", "feedback", "fictional", "verified"],
+      "answer": "No. All three testimonials are fictional examples for this UX concept. They do not represent actual customers, research participants, or verified product experiences.",
+      "source": "website/index.html#reviews",
+      "requirement_references": []
+    },
+    {
+      "id": "FAQ-010",
+      "category": "support",
+      "question": "Can I contact customer support?",
+      "keywords": ["support", "contact", "help", "enquiry", "response", "callback"],
+      "answer": "The contact form demonstrates local validation and a demo confirmation. Nothing is sent, no support case is created, and no response or callback is offered. Live support channels, hours, and escalation commitments have not been confirmed for a real service.",
+      "source": "website/index.html#contact",
+      "requirement_references": ["BRD-021", "BRD-023"]
+    },
+    {
+      "id": "FAQ-011",
+      "category": "emergency",
+      "question": "Is Findoo an emergency assistance service?",
+      "keywords": ["emergency", "urgent", "danger", "fire", "injury", "immediate help"],
+      "answer": "No. Findoo is a design demonstration, not an emergency assistance service. If you are facing an emergency, contact the appropriate local emergency service rather than using this website.",
+      "source": "website/index.html#faq",
+      "requirement_references": ["BRD-014"]
+    }
+  ]
+}

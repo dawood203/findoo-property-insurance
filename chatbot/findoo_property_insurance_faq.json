@@ -1,0 +1,727 @@
+{
+  "project": "Findoo Property Insurance",
+  "version": "1.0",
+  "language": "en-IN",
+  "disclaimer": "Original educational demo content. Findoo is a fictional course project, not a licensed insurer. Answers are general illustrations, not binding terms, legal advice, quotations, or guarantees of coverage.",
+  "copyright_note": "FAQ wording was independently authored for Findoo; no third-party FAQ text has been reproduced.",
+  "faqs": [
+    {
+      "id": "FAQ001",
+      "category": "General Information",
+      "question": "What is Findoo Property Insurance?",
+      "answer": "Findoo is a concept for a digital service that helps people explore protection for homes and belongings. It is a course project, not an insurer or an active insurance product.",
+      "keywords": [
+        "what",
+        "findoo",
+        "property",
+        "insurance"
+      ],
+      "suggested_questions": [
+        "Why might I need property insurance?",
+        "How would Findoo work?"
+      ]
+    },
+    {
+      "id": "FAQ002",
+      "category": "General Information",
+      "question": "Why might I need property insurance?",
+      "answer": "A suitable policy can help with the financial impact of unexpected damage to your home or possessions when the event is covered.",
+      "keywords": [
+        "might",
+        "need",
+        "property",
+        "insurance"
+      ],
+      "suggested_questions": [
+        "What is Findoo Property Insurance?",
+        "How would Findoo work?"
+      ]
+    },
+    {
+      "id": "FAQ003",
+      "category": "General Information",
+      "question": "How would Findoo work?",
+      "answer": "The proposed journey is to describe your property, explore coverage, review an illustrative quote, submit details, and receive policy information if a licensed insurer issues coverage.",
+      "keywords": [
+        "would",
+        "findoo",
+        "work"
+      ],
+      "suggested_questions": [
+        "What is Findoo Property Insurance?",
+        "Why might I need property insurance?"
+      ]
+    },
+    {
+      "id": "FAQ004",
+      "category": "General Information",
+      "question": "Who is Findoo designed for?",
+      "answer": "The experience is designed for homeowners, tenants, and landlords. Eligibility would depend on the insurer and the applicant’s interest in the property.",
+      "keywords": [
+        "findoo",
+        "designed",
+        "for"
+      ],
+      "suggested_questions": [
+        "What is Findoo Property Insurance?",
+        "Why might I need property insurance?"
+      ]
+    },
+    {
+      "id": "FAQ005",
+      "category": "General Information",
+      "question": "What kinds of homes could be eligible?",
+      "answer": "Potential examples include apartments, independent houses, and villas. Actual eligibility would be defined by the insurer.",
+      "keywords": [
+        "what",
+        "kinds",
+        "homes",
+        "could",
+        "eligible"
+      ],
+      "suggested_questions": [
+        "What is Findoo Property Insurance?",
+        "Why might I need property insurance?"
+      ]
+    },
+    {
+      "id": "FAQ006",
+      "category": "General Information",
+      "question": "Can I buy home insurance online?",
+      "answer": "Many insurers offer online applications. Findoo demonstrates a possible online journey but does not currently sell or issue insurance.",
+      "keywords": [
+        "home",
+        "insurance",
+        "online"
+      ],
+      "suggested_questions": [
+        "What is Findoo Property Insurance?",
+        "Why might I need property insurance?"
+      ]
+    },
+    {
+      "id": "FAQ007",
+      "category": "Insurance Coverage",
+      "question": "What damage might home insurance cover?",
+      "answer": "Depending on policy wording, insured events may include fire, storms, or certain other sudden losses. Check the schedule, limits, and exclusions.",
+      "keywords": [
+        "what",
+        "damage",
+        "might",
+        "home",
+        "insurance",
+        "cover"
+      ],
+      "suggested_questions": [
+        "Can natural disasters be covered?",
+        "Is fire damage covered?"
+      ]
+    },
+    {
+      "id": "FAQ008",
+      "category": "Insurance Coverage",
+      "question": "Can natural disasters be covered?",
+      "answer": "Some policies cover specified events such as earthquakes, floods, or cyclones. Coverage is not automatic for every disaster.",
+      "keywords": [
+        "natural",
+        "disasters",
+        "covered"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Is fire damage covered?"
+      ]
+    },
+    {
+      "id": "FAQ009",
+      "category": "Insurance Coverage",
+      "question": "Is fire damage covered?",
+      "answer": "Fire is commonly an insured risk in home policies, but the applicable conditions and exclusions still matter.",
+      "keywords": [
+        "fire",
+        "damage",
+        "covered"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ010",
+      "category": "Insurance Coverage",
+      "question": "Does insurance protect against burglary?",
+      "answer": "Theft or burglary protection may be offered for household contents, sometimes as an optional benefit. Check security conditions and limits.",
+      "keywords": [
+        "does",
+        "insurance",
+        "protect",
+        "against",
+        "burglary"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ011",
+      "category": "Insurance Coverage",
+      "question": "Are furniture and appliances included?",
+      "answer": "Contents insurance may cover eligible household items against listed risks. A building-only policy generally does not insure those belongings.",
+      "keywords": [
+        "furniture",
+        "appliances",
+        "included"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ012",
+      "category": "Insurance Coverage",
+      "question": "Can jewellery and valuables be insured?",
+      "answer": "High-value items may need separate declaration, valuation, or an additional benefit. Limits and evidence requirements can apply.",
+      "keywords": [
+        "jewellery",
+        "valuables",
+        "insured"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ013",
+      "category": "Insurance Coverage",
+      "question": "Is water damage covered?",
+      "answer": "Some sudden water-related incidents may qualify, while gradual leaks or maintenance-related damage may not. The policy wording controls.",
+      "keywords": [
+        "water",
+        "damage",
+        "covered"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ014",
+      "category": "Insurance Coverage",
+      "question": "What are typical exclusions?",
+      "answer": "Policies often exclude wear and tear, deliberate loss, and some gradual damage. Exclusions differ by product; review the full wording.",
+      "keywords": [
+        "what",
+        "typical",
+        "exclusions"
+      ],
+      "suggested_questions": [
+        "What damage might home insurance cover?",
+        "Can natural disasters be covered?"
+      ]
+    },
+    {
+      "id": "FAQ015",
+      "category": "Homeowners, Tenants and Landlords",
+      "question": "Can a tenant get insurance?",
+      "answer": "Tenants may be able to insure their belongings even when they do not own the building.",
+      "keywords": [
+        "tenant",
+        "insurance"
+      ],
+      "suggested_questions": [
+        "Can a landlord insure a rented home?",
+        "Is home insurance legally required?"
+      ]
+    },
+    {
+      "id": "FAQ016",
+      "category": "Homeowners, Tenants and Landlords",
+      "question": "Can a landlord insure a rented home?",
+      "answer": "Landlords may seek protection for an eligible building and other insurable interests, subject to policy conditions.",
+      "keywords": [
+        "landlord",
+        "insure",
+        "rented",
+        "home"
+      ],
+      "suggested_questions": [
+        "Can a tenant get insurance?",
+        "Is home insurance legally required?"
+      ]
+    },
+    {
+      "id": "FAQ017",
+      "category": "Homeowners, Tenants and Landlords",
+      "question": "Is home insurance legally required?",
+      "answer": "Home insurance is not universally compulsory for homeowners in India, although a lender may require coverage under a loan agreement.",
+      "keywords": [
+        "home",
+        "insurance",
+        "legally",
+        "required"
+      ],
+      "suggested_questions": [
+        "Can a tenant get insurance?",
+        "Can a landlord insure a rented home?"
+      ]
+    },
+    {
+      "id": "FAQ018",
+      "category": "Homeowners, Tenants and Landlords",
+      "question": "Can an apartment be insured?",
+      "answer": "An eligible apartment may qualify for structure cover, contents cover, or both, depending on the product.",
+      "keywords": [
+        "apartment",
+        "insured"
+      ],
+      "suggested_questions": [
+        "Can a tenant get insurance?",
+        "Can a landlord insure a rented home?"
+      ]
+    },
+    {
+      "id": "FAQ019",
+      "category": "Homeowners, Tenants and Landlords",
+      "question": "Do I need personal cover if my housing association has insurance?",
+      "answer": "Association insurance may focus on shared areas or structures. Check its scope before deciding whether you need separate cover for your unit or belongings.",
+      "keywords": [
+        "need",
+        "personal",
+        "cover",
+        "housing",
+        "association",
+        "insurance"
+      ],
+      "suggested_questions": [
+        "Can a tenant get insurance?",
+        "Can a landlord insure a rented home?"
+      ]
+    },
+    {
+      "id": "FAQ020",
+      "category": "Quotations and Premiums",
+      "question": "How would I request a Findoo quote?",
+      "answer": "In the proposed interface, select Get a Quote and provide property and coverage details to view an illustrative estimate.",
+      "keywords": [
+        "would",
+        "request",
+        "findoo",
+        "quote"
+      ],
+      "suggested_questions": [
+        "What details are useful for a quote?",
+        "What affects the premium?"
+      ]
+    },
+    {
+      "id": "FAQ021",
+      "category": "Quotations and Premiums",
+      "question": "What details are useful for a quote?",
+      "answer": "Typical inputs include location, property type, floor area, construction details, estimated rebuilding value, and selected protection.",
+      "keywords": [
+        "what",
+        "details",
+        "useful",
+        "quote"
+      ],
+      "suggested_questions": [
+        "How would I request a Findoo quote?",
+        "What affects the premium?"
+      ]
+    },
+    {
+      "id": "FAQ022",
+      "category": "Quotations and Premiums",
+      "question": "What affects the premium?",
+      "answer": "Pricing can depend on insured value, location, building characteristics, coverage choices, deductibles, and underwriting rules.",
+      "keywords": [
+        "what",
+        "affects",
+        "premium"
+      ],
+      "suggested_questions": [
+        "How would I request a Findoo quote?",
+        "What details are useful for a quote?"
+      ]
+    },
+    {
+      "id": "FAQ023",
+      "category": "Quotations and Premiums",
+      "question": "Could I tailor my coverage?",
+      "answer": "The Findoo concept includes selectable protection options. Real availability would depend on the insurer and product.",
+      "keywords": [
+        "could",
+        "tailor",
+        "coverage"
+      ],
+      "suggested_questions": [
+        "How would I request a Findoo quote?",
+        "What details are useful for a quote?"
+      ]
+    },
+    {
+      "id": "FAQ024",
+      "category": "Quotations and Premiums",
+      "question": "What does sum insured mean?",
+      "answer": "It is the stated insurance limit for a particular section of cover, subject to policy terms and applicable sublimits.",
+      "keywords": [
+        "what",
+        "does",
+        "insured",
+        "mean"
+      ],
+      "suggested_questions": [
+        "How would I request a Findoo quote?",
+        "What details are useful for a quote?"
+      ]
+    },
+    {
+      "id": "FAQ025",
+      "category": "Quotations and Premiums",
+      "question": "How can I estimate building insurance value?",
+      "answer": "One illustrative method multiplies built-up area by an estimated reconstruction cost per square foot. This is not a quote and usually does not include land value.",
+      "keywords": [
+        "estimate",
+        "building",
+        "insurance",
+        "value"
+      ],
+      "suggested_questions": [
+        "How would I request a Findoo quote?",
+        "What details are useful for a quote?"
+      ]
+    },
+    {
+      "id": "FAQ026",
+      "category": "Policy Purchase and Documents",
+      "question": "How would I apply through Findoo?",
+      "answer": "The planned flow lets users enter property details, review cover, complete application fields, and proceed to payment if a live insurer integration is available.",
+      "keywords": [
+        "would",
+        "apply",
+        "through",
+        "findoo"
+      ],
+      "suggested_questions": [
+        "What documents might be requested?",
+        "When would coverage start?"
+      ]
+    },
+    {
+      "id": "FAQ027",
+      "category": "Policy Purchase and Documents",
+      "question": "What documents might be requested?",
+      "answer": "Depending on the insurer, you may need identity details, property information, and evidence of ownership or tenancy.",
+      "keywords": [
+        "what",
+        "documents",
+        "might",
+        "requested"
+      ],
+      "suggested_questions": [
+        "How would I apply through Findoo?",
+        "When would coverage start?"
+      ]
+    },
+    {
+      "id": "FAQ028",
+      "category": "Policy Purchase and Documents",
+      "question": "When would coverage start?",
+      "answer": "A real policy would state its effective date and time. Filling in a form or receiving an estimate alone does not create cover.",
+      "keywords": [
+        "when",
+        "would",
+        "coverage",
+        "start"
+      ],
+      "suggested_questions": [
+        "How would I apply through Findoo?",
+        "What documents might be requested?"
+      ]
+    },
+    {
+      "id": "FAQ029",
+      "category": "Policy Purchase and Documents",
+      "question": "Would I get an electronic policy?",
+      "answer": "The Findoo concept includes a digital document area. Actual policy issuance would require a licensed insurer.",
+      "keywords": [
+        "would",
+        "electronic",
+        "policy"
+      ],
+      "suggested_questions": [
+        "How would I apply through Findoo?",
+        "What documents might be requested?"
+      ]
+    },
+    {
+      "id": "FAQ030",
+      "category": "Policy Purchase and Documents",
+      "question": "Could I download my policy?",
+      "answer": "The proposed dashboard includes a download option for documents associated with an issued policy.",
+      "keywords": [
+        "could",
+        "download",
+        "policy"
+      ],
+      "suggested_questions": [
+        "How would I apply through Findoo?",
+        "What documents might be requested?"
+      ]
+    },
+    {
+      "id": "FAQ031",
+      "category": "Claims and Settlement",
+      "question": "How would I report a claim?",
+      "answer": "The proposed journey lets a signed-in customer describe the incident, upload evidence, submit the report, and view updates. A real claim must be reported using the insurer’s official process.",
+      "keywords": [
+        "would",
+        "report",
+        "claim"
+      ],
+      "suggested_questions": [
+        "What evidence might a claim require?",
+        "How long does a claim take?"
+      ]
+    },
+    {
+      "id": "FAQ032",
+      "category": "Claims and Settlement",
+      "question": "What evidence might a claim require?",
+      "answer": "Useful records may include photos, incident dates, repair estimates, receipts, and reports from authorities where relevant.",
+      "keywords": [
+        "what",
+        "evidence",
+        "might",
+        "claim",
+        "require"
+      ],
+      "suggested_questions": [
+        "How would I report a claim?",
+        "How long does a claim take?"
+      ]
+    },
+    {
+      "id": "FAQ033",
+      "category": "Claims and Settlement",
+      "question": "How long does a claim take?",
+      "answer": "Timing varies with the type of loss, investigation, documentation, and insurer obligations. Findoo does not promise a settlement deadline.",
+      "keywords": [
+        "long",
+        "does",
+        "claim",
+        "take"
+      ],
+      "suggested_questions": [
+        "How would I report a claim?",
+        "What evidence might a claim require?"
+      ]
+    },
+    {
+      "id": "FAQ034",
+      "category": "Claims and Settlement",
+      "question": "Could I check claim progress online?",
+      "answer": "The concept includes a claim-tracking screen. Live status would require a secure connection to the insurer’s system.",
+      "keywords": [
+        "could",
+        "check",
+        "claim",
+        "progress",
+        "online"
+      ],
+      "suggested_questions": [
+        "How would I report a claim?",
+        "What evidence might a claim require?"
+      ]
+    },
+    {
+      "id": "FAQ035",
+      "category": "Claims and Settlement",
+      "question": "What if my claim is declined?",
+      "answer": "Ask for the written reasons, review the policy terms, and use the insurer’s complaint or review process if you disagree.",
+      "keywords": [
+        "what",
+        "claim",
+        "declined"
+      ],
+      "suggested_questions": [
+        "How would I report a claim?",
+        "What evidence might a claim require?"
+      ]
+    },
+    {
+      "id": "FAQ036",
+      "category": "Claims and Settlement",
+      "question": "Can small losses be claimed?",
+      "answer": "A smaller loss may be claimable if it meets the policy conditions, but deductibles and limits can affect payment.",
+      "keywords": [
+        "small",
+        "losses",
+        "claimed"
+      ],
+      "suggested_questions": [
+        "How would I report a claim?",
+        "What evidence might a claim require?"
+      ]
+    },
+    {
+      "id": "FAQ037",
+      "category": "Policy Renewal and Management",
+      "question": "How would I renew a policy?",
+      "answer": "The proposed account area includes a renewal journey for eligible policies. Renewal terms and availability would come from the insurer.",
+      "keywords": [
+        "would",
+        "renew",
+        "policy"
+      ],
+      "suggested_questions": [
+        "Can I change property details later?",
+        "Can a policy be cancelled?"
+      ]
+    },
+    {
+      "id": "FAQ038",
+      "category": "Policy Renewal and Management",
+      "question": "Can I change property details later?",
+      "answer": "You may be able to request updates. Changes that affect risk or cover can require insurer approval.",
+      "keywords": [
+        "change",
+        "property",
+        "details",
+        "later"
+      ],
+      "suggested_questions": [
+        "How would I renew a policy?",
+        "Can a policy be cancelled?"
+      ]
+    },
+    {
+      "id": "FAQ039",
+      "category": "Policy Renewal and Management",
+      "question": "Can a policy be cancelled?",
+      "answer": "Cancellation rights and procedures depend on the policy and applicable rules. Contact the insurer for a binding answer.",
+      "keywords": [
+        "policy",
+        "cancelled"
+      ],
+      "suggested_questions": [
+        "How would I renew a policy?",
+        "Can I change property details later?"
+      ]
+    },
+    {
+      "id": "FAQ040",
+      "category": "Policy Renewal and Management",
+      "question": "Would cancellation result in a refund?",
+      "answer": "Any refund depends on the contract, coverage period, claims, and applicable requirements.",
+      "keywords": [
+        "would",
+        "cancellation",
+        "result",
+        "refund"
+      ],
+      "suggested_questions": [
+        "How would I renew a policy?",
+        "Can I change property details later?"
+      ]
+    },
+    {
+      "id": "FAQ041",
+      "category": "Policy Renewal and Management",
+      "question": "What happens at expiry?",
+      "answer": "Protection generally ends at the policy expiry date unless valid renewal or extension terms apply.",
+      "keywords": [
+        "what",
+        "happens",
+        "expiry"
+      ],
+      "suggested_questions": [
+        "How would I renew a policy?",
+        "Can I change property details later?"
+      ]
+    },
+    {
+      "id": "FAQ042",
+      "category": "Customer Support and AI Chatbot",
+      "question": "How can I reach Findoo support?",
+      "answer": "The demonstration website includes a Contact Us section. It is not an active insurance service or emergency claims hotline.",
+      "keywords": [
+        "reach",
+        "findoo",
+        "support"
+      ],
+      "suggested_questions": [
+        "Does Findoo include an AI assistant?",
+        "Can the chatbot recommend a policy?"
+      ]
+    },
+    {
+      "id": "FAQ043",
+      "category": "Customer Support and AI Chatbot",
+      "question": "Does Findoo include an AI assistant?",
+      "answer": "The planned chatbot answers general questions using this original FAQ knowledge base.",
+      "keywords": [
+        "does",
+        "findoo",
+        "include",
+        "assistant"
+      ],
+      "suggested_questions": [
+        "How can I reach Findoo support?",
+        "Can the chatbot recommend a policy?"
+      ]
+    },
+    {
+      "id": "FAQ044",
+      "category": "Customer Support and AI Chatbot",
+      "question": "Can the chatbot recommend a policy?",
+      "answer": "It can explain insurance terms and comparison factors, but it cannot guarantee suitability, bind coverage, or replace regulated advice.",
+      "keywords": [
+        "chatbot",
+        "recommend",
+        "policy"
+      ],
+      "suggested_questions": [
+        "How can I reach Findoo support?",
+        "Does Findoo include an AI assistant?"
+      ]
+    },
+    {
+      "id": "FAQ045",
+      "category": "Customer Support and AI Chatbot",
+      "question": "Can the chatbot tell me my claim status?",
+      "answer": "Not in the basic FAQ demo. Real claim lookup would require authentication and an insurer integration.",
+      "keywords": [
+        "chatbot",
+        "tell",
+        "claim",
+        "status"
+      ],
+      "suggested_questions": [
+        "How can I reach Findoo support?",
+        "Does Findoo include an AI assistant?"
+      ]
+    },
+    {
+      "id": "FAQ046",
+      "category": "Customer Support and AI Chatbot",
+      "question": "How would Findoo protect my data?",
+      "answer": "A production system should use secure authentication, encryption, access controls, and clear privacy notices. These protections must be implemented and tested before making security claims.",
+      "keywords": [
+        "would",
+        "findoo",
+        "protect",
+        "data"
+      ],
+      "suggested_questions": [
+        "How can I reach Findoo support?",
+        "Does Findoo include an AI assistant?"
+      ]
+    }
+  ]
+}
