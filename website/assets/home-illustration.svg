@@ -9,6 +9,6 @@
 <path d="M138 281v145m0-53-29-22m29-16 27-24" stroke="#305674" stroke-width="7" stroke-linecap="round"/><ellipse cx="139" cy="277" rx="43" ry="67" fill="#5689ad"/><ellipse cx="136" cy="273" rx="29" ry="57" fill="#6d9dbc"/><path d="M141 258v78m0-40 16-17m-16 38-17-14" stroke="#426f92" stroke-width="3" stroke-linecap="round"/>
 <path d="M531 322v107" stroke="#305674" stroke-width="6" stroke-linecap="round"/><ellipse cx="530" cy="316" rx="32" ry="52" fill="#447da7"/><ellipse cx="525" cy="313" rx="23" ry="44" fill="#6b9abb"/><path d="M528 303v57m0-23 14-14" stroke="#345f82" stroke-width="3" stroke-linecap="round"/>
 <path d="M199 415c-10-30 11-35 20-12 5-33 30-27 29 3 19-15 30 0 27 13H199Z" fill="#557f9e"/><path d="M431 420c-7-25 9-29 17-11 3-28 23-24 26 1 15-12 27-1 24 10h-67Z" fill="#7399b2"/>
-<rect x="167" y="357" width="23" height="35" rx="4" fill="#b72d3b"/><path d="M179 390v40m-11 0h21" stroke="#334d68" stroke-width="3" stroke-linecap="round"/><path d="M172 367h13" stroke="#fff" stroke-width="2"/>
-<circle cx="96" cy="111" r="10" fill="#d5e3f6"/><circle cx="581" cy="256" r="7" fill="#b72d3b"/><path d="m586 377 8 8m0-8-8 8" stroke="#9db7d4" stroke-width="2"/>
+<rect x="167" y="357" width="23" height="35" rx="4" fill="#80d99b"/><path d="M179 390v40m-11 0h21" stroke="#334d68" stroke-width="3" stroke-linecap="round"/><path d="M172 367h13" stroke="#fff" stroke-width="2"/>
+<circle cx="96" cy="111" r="10" fill="#d5e3f6"/><circle cx="581" cy="256" r="7" fill="#80d99b"/><path d="m586 377 8 8m0-8-8 8" stroke="#9db7d4" stroke-width="2"/>
 </svg>
